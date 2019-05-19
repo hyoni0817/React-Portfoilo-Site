@@ -1,11 +1,11 @@
 import React from 'react';
 import logo from './logo.svg';
-import Portfolio from './portfolio'
+import IntroView from './components/introView'
 import './App.css';
 
 function App() {
   return (
-    <Portfolio></Portfolio>
+    <IntroView></IntroView>
   );
 }
 
